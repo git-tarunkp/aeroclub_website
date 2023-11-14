@@ -2,9 +2,9 @@
 
 This is website for aeromodelling club IIT Indore.
 website consists of components such as:
->club memebers
->club projects
->club activities
+>club memebers,
+>club projects,
+>club activities,
 >club abouts
 and others.
 this website also contains admin section were admin can add and remove projects, add and remove members,and can maintain their website.
