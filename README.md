@@ -15,6 +15,7 @@ Welcome to the **AeroClub** website, a platform developed for our college's avia
 - **Admin Dashboard**: Admins can manage event schedules, and projects etc.
 
 ## Demo
+https://aeroclubwebsite.vercel.app/
 
 
 ## Installation
